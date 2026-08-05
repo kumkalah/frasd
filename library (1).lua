@@ -56,10 +56,10 @@ getgenv().library = {
 	keybind_path,
 	panel_open = false,
 
-	directory = "inactivity",
+	directory = "GlucoseRelease",
 	folders = {
-		"/fonts",
-		"/configs",
+		"/Fonts",
+		"/Configs",
 	},
 	font,
 }
